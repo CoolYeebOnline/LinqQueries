@@ -1,0 +1,11 @@
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\bin\Debug\netcoreapp2.1\LinqQuery.deps.json
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\bin\Debug\netcoreapp2.1\LinqQuery.runtimeconfig.json
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\bin\Debug\netcoreapp2.1\LinqQuery.runtimeconfig.dev.json
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\bin\Debug\netcoreapp2.1\LinqQuery.dll
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\bin\Debug\netcoreapp2.1\LinqQuery.pdb
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\obj\Debug\netcoreapp2.1\LinqQuery.csprojAssemblyReference.cache
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\obj\Debug\netcoreapp2.1\LinqQuery.csproj.CoreCompileInputs.cache
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\obj\Debug\netcoreapp2.1\LinqQuery.AssemblyInfoInputs.cache
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\obj\Debug\netcoreapp2.1\LinqQuery.AssemblyInfo.cs
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\obj\Debug\netcoreapp2.1\LinqQuery.dll
+C:\Users\s1906176\source\repos\LinqQuery\LinqQuery\obj\Debug\netcoreapp2.1\LinqQuery.pdb
